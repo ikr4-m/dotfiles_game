@@ -62,9 +62,9 @@ Time12	0
 TimeEorzea	0
 TimeLocal	1
 TimeServer	0
-ActiveLS_H	0
-ActiveLS_L	0
-HotbarLock	0
+ActiveLS_H	4718592
+ActiveLS_L	120706
+HotbarLock	1
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
 ExHotbarChangeHotbar1	1
@@ -278,7 +278,7 @@ Log	0
 LogTell	0
 LogFontSize	12
 LogTabName2	Event
-LogTabName3	
+LogTabName3	Linkshells
 LogTabFilter0	0
 LogTabFilter1	1
 LogTabFilter2	2
@@ -436,10 +436,10 @@ ContentsFinderListSortType	0
 ContentsFinderSupplyEnable	0
 EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	0
-ContentsFinderUseLangTypeJA	0
+ContentsFinderUseLangTypeJA	1
 ContentsFinderUseLangTypeEN	1
-ContentsFinderUseLangTypeDE	0
-ContentsFinderUseLangTypeFR	0
+ContentsFinderUseLangTypeDE	1
+ContentsFinderUseLangTypeFR	1
 ItemInventryWindowSizeType	0
 ItemInventryRetainerWindowSizeType	0
 BattleTalkShowFace	1
